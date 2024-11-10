@@ -1,0 +1,10 @@
+D:\Desktop\учеба\КПЗ\KPZ 4\KPZ 4\obj\Debug\KPZ 4.csproj.AssemblyReference.cache
+D:\Desktop\учеба\КПЗ\KPZ 4\KPZ 4\obj\Debug\MainForm.resources
+D:\Desktop\учеба\КПЗ\KPZ 4\KPZ 4\obj\Debug\KPZ_4.Properties.Resources.resources
+D:\Desktop\учеба\КПЗ\KPZ 4\KPZ 4\obj\Debug\KPZ 4.csproj.GenerateResource.cache
+D:\Desktop\учеба\КПЗ\KPZ 4\KPZ 4\obj\Debug\KPZ 4.csproj.CoreCompileInputs.cache
+D:\Desktop\учеба\КПЗ\KPZ 4\KPZ 4\bin\Debug\KPZ 4.exe.config
+D:\Desktop\учеба\КПЗ\KPZ 4\KPZ 4\bin\Debug\KPZ 4.exe
+D:\Desktop\учеба\КПЗ\KPZ 4\KPZ 4\bin\Debug\KPZ 4.pdb
+D:\Desktop\учеба\КПЗ\KPZ 4\KPZ 4\obj\Debug\KPZ 4.exe
+D:\Desktop\учеба\КПЗ\KPZ 4\KPZ 4\obj\Debug\KPZ 4.pdb

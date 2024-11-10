@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\kpz 4\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|solutionrelative:kpz 4\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\kpz 4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|solutionrelative:kpz 4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\kpz 4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|solutionrelative:kpz 4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|d:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043F\u0437\\kpz 4\\kpz 4\\airplanedirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|solutionrelative:kpz 4\\airplanedirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\kpz 4\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|solutionrelative:kpz 4\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\kpz 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|solutionrelative:kpz 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\kpz 4\\cargoairplanebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|solutionrelative:kpz 4\\cargoairplanebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\kpz 4\\passengerairplanebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|solutionrelative:kpz 4\\passengerairplanebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\kpz 4\\iairplanebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA232E6B-1278-4197-8898-A602189FAC4E}|KPZ 4\\KPZ 4.csproj|solutionrelative:kpz 4\\iairplanebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\Program.cs",
+              "RelativeDocumentMoniker": "KPZ 4\\Program.cs",
+              "ToolTip": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\Program.cs",
+              "RelativeToolTip": "KPZ 4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:49:25.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "KPZ 4\\MainForm.Designer.cs",
+              "ToolTip": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\MainForm.Designer.cs*",
+              "RelativeToolTip": "KPZ 4\\MainForm.Designer.cs*",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv1EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:45:20.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\MainForm.cs",
+              "RelativeDocumentMoniker": "KPZ 4\\MainForm.cs",
+              "ToolTip": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\MainForm.cs",
+              "RelativeToolTip": "KPZ 4\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:44:57.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AirplaneDirector.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\AirplaneDirector.cs",
+              "RelativeDocumentMoniker": "KPZ 4\\AirplaneDirector.cs",
+              "ToolTip": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\AirplaneDirector.cs",
+              "RelativeToolTip": "KPZ 4\\AirplaneDirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:44:34.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CargoAirplaneBuilder.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\CargoAirplaneBuilder.cs",
+              "RelativeDocumentMoniker": "KPZ 4\\CargoAirplaneBuilder.cs",
+              "ToolTip": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\CargoAirplaneBuilder.cs",
+              "RelativeToolTip": "KPZ 4\\CargoAirplaneBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:43:57.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PassengerAirplaneBuilder.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\PassengerAirplaneBuilder.cs",
+              "RelativeDocumentMoniker": "KPZ 4\\PassengerAirplaneBuilder.cs",
+              "ToolTip": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\PassengerAirplaneBuilder.cs",
+              "RelativeToolTip": "KPZ 4\\PassengerAirplaneBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:43:41.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAirplaneBuilder.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\IAirplaneBuilder.cs",
+              "RelativeDocumentMoniker": "KPZ 4\\IAirplaneBuilder.cs",
+              "ToolTip": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\IAirplaneBuilder.cs",
+              "RelativeToolTip": "KPZ 4\\IAirplaneBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:43:18.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\Airplane.cs",
+              "RelativeDocumentMoniker": "KPZ 4\\Airplane.cs",
+              "ToolTip": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\Airplane.cs",
+              "RelativeToolTip": "KPZ 4\\Airplane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:42:48.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\MainForm.cs",
+              "RelativeDocumentMoniker": "KPZ 4\\MainForm.cs",
+              "ToolTip": "D:\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\\u041A\u041F\u0417\\KPZ 4\\KPZ 4\\MainForm.cs [Design]",
+              "RelativeToolTip": "KPZ 4\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:40:10.424Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
